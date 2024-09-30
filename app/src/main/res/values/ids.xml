@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nextButton" type="id" />
+    <item name="songDurationTextView" type="id" />
+    <item name="songImageView" type="id" />
+    <item name="songTitleTextView" type="id" />
+    <item name="previousButton" type="id" />
+    <item name="playPauseButton" type="id" />
+    <item name="backButton" type="id" />
+</resources>

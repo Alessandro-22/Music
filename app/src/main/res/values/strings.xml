@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Musica</string>
+    <string name="menu">Menu</string>
+    <string name="Anterior">Anterior</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="back">Menu</string>
+    <string name="audio_image">Imagen de audio</string>
+    <string name="reproduciendo">Reproduciendo: </string>
+    <string name="reproducir">Reproducir</string>
+    <string name="pausar">Pausar</string>
+    <string name="detener">Detener</string>
+    <string name="btn_back">Volver</string>
+    <string name="btn_previous">Anterior</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="title_gallery">Spotifai</string>
+
+</resources>

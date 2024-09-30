@@ -1,0 +1,14 @@
+<resources>
+    <!-- Definiciones de colores -->
+    <color name="colorPrimary">#6200EA</color> <!-- Morado intenso -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Morado oscuro -->
+    <color name="colorAccent">#03DAC6</color> <!-- Verde menta -->
+    <color name="textColor">#000000</color> <!-- Negro para texto -->
+    <color name="background">#FFFFFF</color> <!-- Blanco de fondo -->
+    <color name="black">#000000</color> <!-- Negro estándar -->
+    <color name="dark_gray">#666666</color> <!-- Gris oscuro -->
+    <color name="light_gray">#E0E0E0</color> <!-- Gris claro -->
+    <color name="white">#FFFFFF</color> <!-- Blanco estándar -->
+    <color name="teal_200">#80CBC4</color> <!-- Teal claro -->
+    <color name="purple_500">#BB86FC</color> <!-- Lila suave -->
+</resources>
