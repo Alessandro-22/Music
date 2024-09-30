@@ -17,5 +17,5 @@ Sigue estos pasos para configurar tu entorno de desarrollo y ejecutar los ejerci
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   https://github.com/Alessandro-22/Programaci-n-para-Dispositivos-M-viles.git
    cd tu_repositorio
