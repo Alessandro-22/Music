@@ -1,14 +1,21 @@
-# Practicas en Android Studio - Unidad II
-Repositorio exclusivamente dirigido para subir proyectos hechos para dispositivos moviles
+# Proyecto de Ejercicios en Kotlin
 
-## Practica 3. Aplicaciones Básicas Android
-- Branch musica: Implementacion de [@Reproductor de musica](https://github.com/xPorotin9/AndroidStudio/tree/Reproductor)
-- Branch Master: Implementacion de [@Interacción con imagenes](https://github.com/xPorotin9/AndroidStudio)
-## Práctica 4. Fragments.
-- Branch Fragment-Img: Implementacion de [@Imagenes con Fragments](https://github.com/xPorotin9/AndroidStudio/tree/Fragment-Img)
+Este repositorio contiene varios ejercicios en Kotlin relacionados con la implementación de sistemas de gestión. Cada ejercicio incluye clases, interfaces y operaciones específicas que se pueden probar y ejecutar en un entorno de desarrollo Kotlin.
 
-## Repositorio de practicas Kotlin (Unidad I)
-https://github.com/xPorotin9/Moviles
-## Authors
 
-- [@José C. Machaca](https://www.github.com/xPorotin9)
+## Requisitos Previos
+
+Para ejecutar los ejercicios en este repositorio, necesitas tener instalado:
+
+- **Kotlin**: [Instalación de Kotlin](https://kotlinlang.org/docs/command-line.html)
+- **JDK** (Java Development Kit): [Descargar JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- **IntelliJ IDEA** o cualquier otro IDE compatible con Kotlin.
+
+## Configuración del Entorno
+
+Sigue estos pasos para configurar tu entorno de desarrollo y ejecutar los ejercicios:
+
+1. **Clonar el Repositorio**:
+   ```bash
+   git clone https://github.com/tu_usuario/tu_repositorio.git
+   cd tu_repositorio
